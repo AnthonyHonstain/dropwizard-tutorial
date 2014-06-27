@@ -4,6 +4,9 @@ dropwizard-tutorial
 Java and Dropwizard framework
 Following http://dropwizard.readthedocs.org/en/latest/getting-started.html
 
+#### Helpful Links
+* https://github.com/dropwizard/dropwizard/tree/master/dropwizard-example/src/main/resources
+
 #### Build
 ```
 mvn clean
